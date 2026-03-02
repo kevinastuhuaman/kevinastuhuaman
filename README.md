@@ -14,12 +14,9 @@
   <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
 </p>
 
-PM turned builder. 2,000+ commits in 3 months, all pair-programmed with Claude Code.
-I build tools to solve my own problems — then they turn into products.
+> PM turned builder. 2,000+ commits in 3 months, all pair-programmed with Claude Code. I build tools to solve my own problems — then they turn into products.
 
 🔗 [usetrackly.app](https://usetrackly.app) (closed source) — job tracker with active users; ties all these systems together. App Store approved.
-
----
 
 ### Current Projects
 
@@ -67,8 +64,19 @@ I build tools to solve my own problems — then they turn into products.
 
 > 2,000+ commits · 20 repos · 775 companies monitored · 94K jobs tracked · 124 DB migrations · 301 tests · 55 skills · 43 CLI tools · 88% LLM cost reduction · 61 consecutive AI briefings · 12K contacts imported
 
+### GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/30a14e/kevinastuhuaman" />
+  <img src="https://ghchart.rshah.org/kevinastuhuaman" alt="GitHub Contribution Graph" />
+</picture>
+
 ---
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/kevinastuhuaman) · [usetrackly.app](https://usetrackly.app)
+[LinkedIn](https://linkedin.com/in/kevinastuhuaman) · [X](https://x.com/kevinastuhuaman) · [usetrackly.app](https://usetrackly.app)
+
+---
+
+> "Automate yourself out of every job you create." — 3 months of building with Claude taught me that the best system is the one that runs without you.
