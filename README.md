@@ -22,6 +22,12 @@
 
 🔗 [usetrackly.app](https://usetrackly.app) (closed source) - job tracker with active users; ties all these systems together. App Store approved.
 
+<p align="center">
+  <a href="https://usetrackly.app">
+    <img src="assets/trackly-app-store.jpg" alt="Trackly on the App Store" width="560" style="border-radius: 16px;" />
+  </a>
+</p>
+
 ### Current Projects
 
 **Agents & automation**
