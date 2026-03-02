@@ -105,7 +105,6 @@
 - [Diario Gestion](https://gestion.pe/tu-dinero/finanzas-personales/prepagos-de-creditos-en-que-momento-hacerlo-para-ahorrar-mas-en-intereses-noticia/) - Peru's top economics newspaper
 - [BCP SME platform launch](https://youtu.be/w_49sTlM1DA?si=NqwLbs-kBTUmpfpL) - YouTube video, 750K+ views
 - [Berkeley Haas admits dinner](https://newsroom.haas.berkeley.edu/issue/spring-2024/worldwide-events-spring-2024/) - Haas newsroom feature
-- [Unity in Motion at I-House](https://ihberkeley.com/2024/10/18/unity-in-motion-bridging-cultures-through-dance-at-international-house/) - bridging cultures through dance
 - [Beyond the Backlog](https://podcasts.apple.com/za/podcast/beyond-the-backlog/id1812138539) - co-host of Berkeley's first PM podcast (Apple Podcasts, iHeart, Spotify)
 
 ### Philosophy
@@ -114,6 +113,6 @@
 
 ### Random Facts
 
-- Salsa dancer - Thursday nights at I-House remind me of Peru
-- Personal Finance YouTube channel that got cited by Peru's largest economics newspaper
+- [Salsa dancer](https://ihberkeley.com/2024/10/18/unity-in-motion-bridging-cultures-through-dance-at-international-house/) - Thursday nights at I-House remind me of Peru
+- [YouTuber](https://www.youtube.com/@kevinastuhuaman) - Personal Finance channel that got cited by Peru's largest economics newspaper
 - Run 3-6 Claude Code instances concurrently
