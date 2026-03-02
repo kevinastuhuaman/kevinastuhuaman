@@ -11,6 +11,9 @@
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/-Claude-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/-CLI-555555?style=flat-square&logoColor=white" alt="CLI">
+  <img src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS">
+  <img src="https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Web">
   <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
 </p>
 
