@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://usetrackly.app">
-    <img src="assets/trackly-app-store.jpg" alt="Trackly on the App Store" width="560" style="border-radius: 16px;" />
+    <img src="assets/trackly-app-store.png" alt="Trackly on the App Store" width="560" />
   </a>
 </p>
 
