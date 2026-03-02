@@ -75,7 +75,15 @@
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/kevinastuhuaman) · [X](https://x.com/kevinastuhuaman) · [usetrackly.app](https://usetrackly.app)
+<p>
+  <a href="https://linkedin.com/in/kevinastuhuaman"><img src="https://img.shields.io/badge/-Kevin_Astuhuaman-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/kevinastuhuaman"><img src="https://img.shields.io/badge/-@kevinastuhuaman-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.youtube.com/@kevinastuhuaman"><img src="https://img.shields.io/badge/-@kevinastuhuaman-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.kevinastuhuaman.com/"><img src="https://img.shields.io/badge/-Newsletter-FF6600?style=flat-square&logo=substack&logoColor=white" alt="Newsletter"></a>
+  <a href="https://open.spotify.com/show/6OvPmvIDQh70CpLyU2DqkO"><img src="https://img.shields.io/badge/-Podcast-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+  <a href="https://usetrackly.app"><img src="https://img.shields.io/badge/-usetrackly.app-6366F1?style=flat-square&logoColor=white" alt="Trackly"></a>
+  <a href="https://github.com/kevinastuhuaman"><img src="https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
 
