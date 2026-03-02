@@ -113,6 +113,6 @@
 
 ### Random Facts
 
-- [Salsa dancer](https://ihberkeley.com/2024/10/18/unity-in-motion-bridging-cultures-through-dance-at-international-house/) - Thursday nights at I-House remind me of Peru
+- [Salsa dancer](https://ihberkeley.com/2024/10/18/unity-in-motion-bridging-cultures-through-dance-at-international-house/) - organized and performed at UC Berkeley's International House
 - [YouTuber](https://www.youtube.com/@kevinastuhuaman) - 15K+ subscribers; Personal Finance channel cited by Peru's largest economics newspaper
 - Run 3-6 Claude Code instances concurrently
