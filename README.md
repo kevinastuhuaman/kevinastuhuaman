@@ -14,51 +14,51 @@
   <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
 </p>
 
-> PM turned builder. 2,000+ commits in 3 months, all pair-programmed with Claude Code. I build tools to solve my own problems — then they turn into products.
+> PM turned builder. 2,000+ commits in 3 months, all pair-programmed with Claude Code. I build tools to solve my own problems - then they turn into products.
 
-🔗 [usetrackly.app](https://usetrackly.app) (closed source) — job tracker with active users; ties all these systems together. App Store approved.
+🔗 [usetrackly.app](https://usetrackly.app) (closed source) - job tracker with active users; ties all these systems together. App Store approved.
 
 ### Current Projects
 
 **Agents & automation**
-- 🕷️ [job-monitor](https://github.com/kevinastuhuaman/job-monitor) — scrapes 775 companies across 22 ATS types, every 15 minutes
-- 🤖 [auto-apply-agent](https://github.com/kevinastuhuaman/auto-apply-agent) — an AI agent that fills job applications for you
-- 🗂️ [ai-chief-of-staff](https://github.com/kevinastuhuaman/ai-chief-of-staff) — briefs me every morning for 61+ days straight
-- 🔍 [hiring-manager-finder](https://github.com/kevinastuhuaman/hiring-manager-finder) — deep research via distributed workers — yes, one runs on a laptop in France
-- ✍️ [writing-voice-models](https://github.com/kevinastuhuaman/writing-voice-models) — fine-tuned GPT-4o-mini on 339 of my emails; 4 models compete on every draft
-- 💬 [contact-intelligence](https://github.com/kevinastuhuaman/contact-intelligence) — 12K LinkedIn contacts in a CRM you actually control
-- 🎭 [emotion-analysis](https://github.com/kevinastuhuaman/emotion-analysis) — Hume AI on call transcripts: 48 emotions, sentiment scoring, emotional journeys
-- 📧 [automated-followups](https://github.com/kevinastuhuaman/automated-followups) — Fireflies webhooks turn voice notes into instant thank-you emails
+- 🕷️ [job-monitor](https://github.com/kevinastuhuaman/job-monitor) - scrapes 775 companies across 22 ATS types, every 15 minutes
+- 🤖 [auto-apply-agent](https://github.com/kevinastuhuaman/auto-apply-agent) - an AI agent that fills job applications for you
+- 🗂️ [ai-chief-of-staff](https://github.com/kevinastuhuaman/ai-chief-of-staff) - briefs me every morning for 61+ days straight
+- 🔍 [hiring-manager-finder](https://github.com/kevinastuhuaman/hiring-manager-finder) - deep research via distributed workers - yes, one runs on a laptop in France
+- ✍️ [writing-voice-models](https://github.com/kevinastuhuaman/writing-voice-models) - fine-tuned GPT-4o-mini on 339 of my emails; 4 models compete on every draft
+- 💬 [contact-intelligence](https://github.com/kevinastuhuaman/contact-intelligence) - 12K LinkedIn contacts in a CRM you actually control
+- 🎭 [emotion-analysis](https://github.com/kevinastuhuaman/emotion-analysis) - Hume AI on call transcripts: 48 emotions, sentiment scoring, emotional journeys
+- 📧 [automated-followups](https://github.com/kevinastuhuaman/automated-followups) - Fireflies webhooks turn voice notes into instant thank-you emails
 
 **LLM engineering**
-- 💰 [llm-cost-chain](https://github.com/kevinastuhuaman/llm-cost-chain) — 6-tier fallback across 6 providers; cut costs 88% ($25/day → $3)
-- 🔭 [llm-observability](https://github.com/kevinastuhuaman/llm-observability) — self-hosted Langfuse on Lightsail; fire-and-forget, zero SDK deps
-- 🧠 [semantic-search](https://github.com/kevinastuhuaman/semantic-search) — Azure AI hybrid search with HNSW vectors + keyword, 1536-dim embeddings
+- 💰 [llm-cost-chain](https://github.com/kevinastuhuaman/llm-cost-chain) - 6-tier fallback across 6 providers; cut costs 88% ($25/day → $3)
+- 🔭 [llm-observability](https://github.com/kevinastuhuaman/llm-observability) - self-hosted Langfuse on Lightsail; fire-and-forget, zero SDK deps
+- 🧠 [semantic-search](https://github.com/kevinastuhuaman/semantic-search) - Azure AI hybrid search with HNSW vectors + keyword, 1536-dim embeddings
 
 **Browser & terminal tools**
-- 📝 [x-article-publisher](https://github.com/kevinastuhuaman/x-article-publisher) — publish an X article from your terminal in 60 seconds via CDP
-- 🎙️ [voice-to-newsletter](https://github.com/kevinastuhuaman/voice-to-newsletter) — voice memo → published newsletter in 3 minutes
-- 💡 [smart-home-workflow](https://github.com/kevinastuhuaman/smart-home-workflow) — Govee lights + Alexa as developer workflow UI
-- 📊 [command-center](https://github.com/kevinastuhuaman/command-center) — Uptime Kuma + Healthchecks + Slack alerting + PostHog analytics
+- 📝 [x-article-publisher](https://github.com/kevinastuhuaman/x-article-publisher) - publish an X article from your terminal in 60 seconds via CDP
+- 🎙️ [voice-to-newsletter](https://github.com/kevinastuhuaman/voice-to-newsletter) - voice memo → published newsletter in 3 minutes
+- 💡 [smart-home-workflow](https://github.com/kevinastuhuaman/smart-home-workflow) - Govee lights + Alexa as developer workflow UI
+- 📊 [command-center](https://github.com/kevinastuhuaman/command-center) - Uptime Kuma + Healthchecks + Slack alerting + PostHog analytics
 
 **Infrastructure & quality**
-- 🧪 [eval-framework](https://github.com/kevinastuhuaman/eval-framework) — 3-tier classification eval; golden test sets; CI safety checks
-- 🛠️ [claude-code-toolkit](https://github.com/kevinastuhuaman/claude-code-toolkit) — 55 Claude Code skills + 43 CLI tools
+- 🧪 [eval-framework](https://github.com/kevinastuhuaman/eval-framework) - 3-tier classification eval; golden test sets; CI safety checks
+- 🛠️ [claude-code-toolkit](https://github.com/kevinastuhuaman/claude-code-toolkit) - 55 Claude Code skills + 43 CLI tools
 
 **Native apps**
-- 📱 [trackly-ios](https://github.com/kevinastuhuaman/trackly-ios) — SwiftUI, NLP search with fuzzy matching, App Store approved
-- 🖥️ [trackly-macos](https://github.com/kevinastuhuaman/trackly-macos) — SwiftUI desktop, keyboard-first design, App Store approved
+- 📱 [trackly-ios](https://github.com/kevinastuhuaman/trackly-ios) - SwiftUI, NLP search with fuzzy matching, App Store approved
+- 🖥️ [trackly-macos](https://github.com/kevinastuhuaman/trackly-macos) - SwiftUI desktop, keyboard-first design, App Store approved
 
 **Open source**
-- 📈 [umami-mcp-server](https://github.com/kevinastuhuaman/umami-mcp-server) — Go MCP server for behavioral analytics; published to Glama.ai + LobeHub
+- 📈 [umami-mcp-server](https://github.com/kevinastuhuaman/umami-mcp-server) - Go MCP server for behavioral analytics; published to Glama.ai + LobeHub
 
 ---
 
 ### What I'm Doing
 
-- **Building in public** — shipping production systems with Claude Code and sharing what I learn
-- **Speaking at Berkeley Haas** — presenting AI coding workflows to MBA classmates
-- **Exploring evals** — classification pipelines and golden test sets for job data at scale
+- **Building in public** - shipping production systems with Claude Code and sharing what I learn
+- **Speaking at Berkeley Haas** - presenting AI coding workflows to MBA classmates
+- **Exploring evals** - classification pipelines and golden test sets for job data at scale
 
 ### By the Numbers
 
@@ -89,28 +89,27 @@
 
 ### Recognition
 
-- **VP, Haas Tech Club** + **VP, Product Management Club** at UC Berkeley Haas
 - **Co-organized Berkeley Haas' first-ever AI & Tech Summit**
 - **Slusser Scholarship**, **Ida K. Rigby Scholarship**, **I-House Scholarship** recipient
+- **VP, Haas Tech Club** + **VP, Product Management Club** at UC Berkeley Haas
 - Expanded loan access to **100,000+ SMEs** at BCP-Credicorp (NYSE: BAP), Peru's largest bank
-- Co-founded **Metta Uno** — EdTech platform for SQL and Python upskilling
+- Co-founded **Metta Uno** - EdTech platform for SQL and Python upskilling
 
 ### Media
 
-- [PUCP Engineering Faculty feature](https://facultad-ciencias-ingenieria.pucp.edu.pe/2024/10/07/kevin-astuhuaman-egresado-de-ingenieria-industrial-admitido-a-maestria-en-berkeley/) — interview on Berkeley admission
-- [Diario Gestion](https://gestion.pe/tu-dinero/finanzas-personales/prepagos-de-creditos-en-que-momento-hacerlo-para-ahorrar-mas-en-intereses-noticia/) — Peru's top economics newspaper
-- [BCP SME platform launch](https://youtu.be/w_49sTlM1DA?si=NqwLbs-kBTUmpfpL) — YouTube video, 500K+ views
-- [Berkeley Haas admits dinner](https://newsroom.haas.berkeley.edu/issue/spring-2024/worldwide-events-spring-2024/) — Haas newsroom feature
-- [Unity in Motion at I-House](https://ihberkeley.com/2024/10/18/unity-in-motion-bridging-cultures-through-dance-at-international-house/) — bridging cultures through dance
-- [Beyond the Backlog](https://podcasts.apple.com/za/podcast/beyond-the-backlog/id1812138539) — Berkeley's first PM podcast (Apple Podcasts, iHeart, Spotify)
+- [PUCP Engineering Faculty feature](https://facultad-ciencias-ingenieria.pucp.edu.pe/2024/10/07/kevin-astuhuaman-egresado-de-ingenieria-industrial-admitido-a-maestria-en-berkeley/) - interview on Berkeley admission
+- [Diario Gestion](https://gestion.pe/tu-dinero/finanzas-personales/prepagos-de-creditos-en-que-momento-hacerlo-para-ahorrar-mas-en-intereses-noticia/) - Peru's top economics newspaper
+- [BCP SME platform launch](https://youtu.be/w_49sTlM1DA?si=NqwLbs-kBTUmpfpL) - YouTube video, 750K+ views
+- [Berkeley Haas admits dinner](https://newsroom.haas.berkeley.edu/issue/spring-2024/worldwide-events-spring-2024/) - Haas newsroom feature
+- [Unity in Motion at I-House](https://ihberkeley.com/2024/10/18/unity-in-motion-bridging-cultures-through-dance-at-international-house/) - bridging cultures through dance
+- [Beyond the Backlog](https://podcasts.apple.com/za/podcast/beyond-the-backlog/id1812138539) - co-host of Berkeley's first PM podcast (Apple Podcasts, iHeart, Spotify)
 
 ### Philosophy
 
-> "Automate yourself out of every job you create." — 3 months of building with Claude taught me that the best system is the one that runs without you.
+> "Automate yourself out of every job you create." - 3 months of building with Claude taught me that the best system is the one that runs without you.
 
 ### Random Facts
 
-- Salsa dancer — Thursday nights at I-House remind me of Peru
-- Co-host [Beyond the Backlog](https://open.spotify.com/show/6OvPmvIDQh70CpLyU2DqkO) — Berkeley's first PM podcast
-- Finance YouTube channel that got cited by Peru's largest economics newspaper
+- Salsa dancer - Thursday nights at I-House remind me of Peru
+- Personal Finance YouTube channel that got cited by Peru's largest economics newspaper
 - Run 3-6 Claude Code instances concurrently
