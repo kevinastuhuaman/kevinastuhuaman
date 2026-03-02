@@ -1,6 +1,6 @@
 # Hi, I'm Kevin 👋
 
-📍 Berkeley, CA | 🎓 Haas MBA '26 | 🔧 Ex-PayPal AI/ML Observability
+📍 San Francisco, CA | 🎓 Haas MBA '26 | 🔧 Ex-PayPal AI/ML Observability
 
 <p>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
