@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
 </p>
 
-> PM turned builder. 2,000+ commits in 3 months, all pair-programmed with Claude Code. I build tools to solve my own problems - then they turn into products.
+> PM turned builder. 2,000+ commits in 3 months, all pair-programmed with Claude Code and Codex. I build tools to solve real problems, then ship them as products.
 
 🔗 [usetrackly.app](https://usetrackly.app) (closed source) - job tracker with active users; ties all these systems together. App Store approved.
 
