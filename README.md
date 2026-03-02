@@ -87,4 +87,30 @@
 
 ---
 
+### Recognition
+
+- **VP, Haas Tech Club** + **VP, Product Management Club** at UC Berkeley Haas
+- **Co-organized Berkeley Haas' first-ever AI & Tech Summit**
+- **Slusser Scholarship**, **Ida K. Rigby Scholarship**, **I-House Scholarship** recipient
+- Expanded loan access to **100,000+ SMEs** at BCP-Credicorp (NYSE: BAP), Peru's largest bank
+- Co-founded **Metta Uno** — EdTech platform for SQL and Python upskilling
+
+### Media
+
+- [PUCP Engineering Faculty feature](https://facultad-ciencias-ingenieria.pucp.edu.pe/2024/10/07/kevin-astuhuaman-egresado-de-ingenieria-industrial-admitido-a-maestria-en-berkeley/) — interview on Berkeley admission
+- [Diario Gestion](https://gestion.pe/tu-dinero/finanzas-personales/prepagos-de-creditos-en-que-momento-hacerlo-para-ahorrar-mas-en-intereses-noticia/) — Peru's top economics newspaper
+- [BCP SME platform launch](https://youtu.be/w_49sTlM1DA?si=NqwLbs-kBTUmpfpL) — YouTube video, 500K+ views
+- [Berkeley Haas admits dinner](https://newsroom.haas.berkeley.edu/issue/spring-2024/worldwide-events-spring-2024/) — Haas newsroom feature
+- [Unity in Motion at I-House](https://ihberkeley.com/2024/10/18/unity-in-motion-bridging-cultures-through-dance-at-international-house/) — bridging cultures through dance
+- [Beyond the Backlog](https://podcasts.apple.com/za/podcast/beyond-the-backlog/id1812138539) — Berkeley's first PM podcast (Apple Podcasts, iHeart, Spotify)
+
+### Philosophy
+
 > "Automate yourself out of every job you create." — 3 months of building with Claude taught me that the best system is the one that runs without you.
+
+### Random Facts
+
+- Salsa dancer — Thursday nights at I-House remind me of Peru
+- Co-host [Beyond the Backlog](https://open.spotify.com/show/6OvPmvIDQh70CpLyU2DqkO) — Berkeley's first PM podcast
+- Finance YouTube channel that got cited by Peru's largest economics newspaper
+- Run 3-6 Claude Code instances concurrently
