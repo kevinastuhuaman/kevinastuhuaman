@@ -20,7 +20,7 @@
 
 > PM turned builder. 2,000+ commits in 3 months, all pair-programmed with Claude Code and Codex. I build tools to solve real problems, then ship them as products.
 
-🔗 [usetrackly.app](https://usetrackly.app) (closed source) - job tracker with active users; ties all these systems together. App Store approved.
+🔗 [usetrackly.app](https://usetrackly.app) (closed source) - job tracker with active users; ties all the systems below together. App Store approved.
 
 <p align="center">
   <a href="https://usetrackly.app">
