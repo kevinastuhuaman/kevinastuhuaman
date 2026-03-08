@@ -48,6 +48,7 @@
 **Browser & terminal tools**
 - 📝 [x-article-publisher](https://github.com/kevinastuhuaman/x-article-publisher) - publish an X article from your terminal in 60 seconds via CDP
 - 🎙️ [voice-to-newsletter](https://github.com/kevinastuhuaman/voice-to-newsletter) - voice memo → published newsletter in 3 minutes
+- 🎬 [trackly-cli-video](https://github.com/kevinastuhuaman/trackly-cli-video) - animated launch videos in React via Remotion; same workflow as the Claude Code team
 - 💡 [smart-home-workflow](https://github.com/kevinastuhuaman/smart-home-workflow) - Govee lights + Alexa as developer workflow UI
 - 📊 [command-center](https://github.com/kevinastuhuaman/command-center) - Uptime Kuma + Healthchecks + Slack alerting + PostHog analytics
 
@@ -72,7 +73,7 @@
 
 ### By the Numbers
 
-> 2,000+ commits · 20 repos · 775 companies monitored · 94K jobs tracked · 124 DB migrations · 301 tests · 55 skills · 43 CLI tools · 88% LLM cost reduction · 61 consecutive AI briefings · 12K contacts imported
+> 2,000+ commits · 21 repos · 775 companies monitored · 94K jobs tracked · 124 DB migrations · 301 tests · 55 skills · 43 CLI tools · 88% LLM cost reduction · 61 consecutive AI briefings · 12K contacts imported
 
 ### GitHub Activity
 
