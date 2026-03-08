@@ -57,8 +57,8 @@
 - 🛠️ [claude-code-toolkit](https://github.com/kevinastuhuaman/claude-code-toolkit) - 55 Claude Code skills + 43 CLI tools
 
 **Native apps**
-- 📱 [trackly-ios](https://github.com/kevinastuhuaman/trackly-ios) - SwiftUI, NLP search with fuzzy matching, App Store approved
-- 🖥️ [trackly-macos](https://github.com/kevinastuhuaman/trackly-macos) - SwiftUI desktop, keyboard-first design, App Store approved
+- 📱 [TracklyApp](https://github.com/kevinastuhuaman/TracklyApp) - SwiftUI, NLP search with fuzzy matching, App Store approved
+- 🖥️ [TracklyMac](https://github.com/kevinastuhuaman/TracklyMac) - SwiftUI desktop, keyboard-first design, App Store approved
 
 **Open source**
 - 📈 [umami-mcp-server](https://github.com/kevinastuhuaman/umami-mcp-server) - Go MCP server for behavioral analytics; published to Glama.ai + LobeHub
