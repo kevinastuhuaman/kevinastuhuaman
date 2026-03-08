@@ -56,9 +56,9 @@
 - 🧪 [eval-framework](https://github.com/kevinastuhuaman/eval-framework) - 3-tier classification eval; golden test sets; CI safety checks
 - 🛠️ [claude-code-toolkit](https://github.com/kevinastuhuaman/claude-code-toolkit) - 55 Claude Code skills + 43 CLI tools
 
-**Native apps**
-- 📱 [TracklyApp](https://github.com/kevinastuhuaman/TracklyApp) - SwiftUI, NLP search with fuzzy matching, App Store approved
-- 🖥️ [TracklyMac](https://github.com/kevinastuhuaman/TracklyMac) - SwiftUI desktop, keyboard-first design, App Store approved
+**Native apps (closed source)**
+- 📱 TracklyApp - SwiftUI, NLP search with fuzzy matching, App Store approved
+- 🖥️ TracklyMac - SwiftUI desktop, keyboard-first design, App Store approved
 
 **Open source**
 - 📈 [umami-mcp-server](https://github.com/kevinastuhuaman/umami-mcp-server) - Go MCP server for behavioral analytics; published to Glama.ai + LobeHub
