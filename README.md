@@ -20,9 +20,11 @@
 
 > PM turned builder. 2,000+ commits in 3 months, all pair-programmed with Claude Code and Codex. I build tools to solve real problems, then ship them as products.
 
-📱 [Trackly on the App Store](https://apps.apple.com/us/app/trackly-apply-first/id6758267565) — real-time tech job openings ~5 hours before LinkedIn. 50+ users in first 2 weeks.
-🔗 [usetrackly.app](https://usetrackly.app) — multi-agent orchestrator tracking 780+ tech companies and 98K+ jobs. Real-time alerts.
-⌨️ [trackly-cli](https://github.com/kevinastuhuaman/trackly-cli) — CLI + MCP Server. Bring Trackly into Claude Code, Codex, or your OpenClaw account.
+📱 [Trackly on the App Store](https://apps.apple.com/us/app/trackly-apply-first/id6758267565) - real-time tech job openings ~5 hours before LinkedIn. 50+ users in first 2 weeks.
+
+🔗 [usetrackly.app](https://usetrackly.app) - multi-agent orchestrator tracking 780+ tech companies and 98K+ jobs. Real-time alerts.
+
+⌨️ [trackly-cli](https://github.com/kevinastuhuaman/trackly-cli) - CLI + MCP Server. Bring Trackly into Claude Code, Codex, or your OpenClaw account.
 
 <p align="center">
   <a href="https://apps.apple.com/us/app/trackly-apply-first/id6758267565">
