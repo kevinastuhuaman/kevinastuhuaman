@@ -65,6 +65,10 @@
 **Open source**
 - 📈 [umami-mcp-server](https://github.com/kevinastuhuaman/umami-mcp-server) - Go MCP server for behavioral analytics; published to Glama.ai + LobeHub
 
+**Marketplace trust & risk**
+- 🎯 [cold-start-abuse-scorer](https://github.com/kevinastuhuaman/cold-start-abuse-scorer) - rank risky entities with zero fraud labels; percentile-based, no-leakage, anti-leakage by construction
+- 🛡️ [marketplace-refund-policy-kit](https://github.com/kevinastuhuaman/marketplace-refund-policy-kit) - forkable policy.yaml + interactive simulator + Node shadow-mode evaluator; ship a fair refund policy in days
+
 ---
 
 ### What I'm Doing
