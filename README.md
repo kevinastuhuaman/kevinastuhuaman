@@ -33,7 +33,7 @@
   </a>
 </p>
 
-### Current Projects
+## Current Projects
 
 **Trackly**
 - 🕷️ [job-monitor](https://github.com/kevinastuhuaman/job-monitor) - career-page monitoring and job-signal pipeline behind Trackly's early coverage
@@ -74,17 +74,17 @@
 
 ---
 
-### What I'm Doing
+## What I'm Doing
 
 - **Building Trackly** across product, data, native apps, web, CLI, and MCP.
 - **Looking for AI PM and Technical PM roles** where the product is close to the system.
 - **Writing and experimenting** with agent workflows, evals, and what I am learning while shipping.
 
-### By the Numbers
+## By the Numbers
 
 > 1,900+ companies monitored by Trackly · 128,975+ roles shown publicly · 15+ PayPal checkout systems touched by AI observability work · 100K+ SMBs and underserved customers reached through BCP/Credicorp products · 339 writing samples used for voice-model calibration
 
-### GitHub Activity
+## GitHub Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/30a14e/kevinastuhuaman" />
@@ -93,7 +93,7 @@
 
 ---
 
-### Connect
+## Connect
 
 <p>
   <a href="https://portfolio.kevinastuhuaman.com/"><img src="https://img.shields.io/badge/-Portfolio-111111?style=flat-square&logoColor=white" alt="Portfolio"></a>
@@ -110,7 +110,7 @@
 
 ---
 
-### Recognition
+## Recognition
 
 - **Co-organized Berkeley Haas' first-ever AI & Tech Summit**
 - **Slusser Scholarship**, **Ida K. Rigby Scholarship**, **I-House Scholarship** recipient
@@ -119,7 +119,7 @@
 - Expanded loan access to **100,000+ SMEs** and underserved customers at BCP/Credicorp
 - Co-founded **Metta Uno**, an education platform for SQL and Python upskilling
 
-### Media
+## Media
 
 - [PUCP Engineering Faculty feature](https://facultad-ciencias-ingenieria.pucp.edu.pe/2024/10/07/kevin-astuhuaman-egresado-de-ingenieria-industrial-admitido-a-maestria-en-berkeley/) - interview on Berkeley admission
 - [Diario Gestion](https://gestion.pe/tu-dinero/finanzas-personales/prepagos-de-creditos-en-que-momento-hacerlo-para-ahorrar-mas-en-intereses-noticia/) - Peru's top economics newspaper
@@ -127,11 +127,11 @@
 - [Berkeley Haas admits dinner](https://newsroom.haas.berkeley.edu/issue/spring-2024/worldwide-events-spring-2024/) - Haas newsroom feature
 - [Beyond the Backlog](https://podcasts.apple.com/za/podcast/beyond-the-backlog/id1812138539) - co-host of Berkeley's first PM podcast
 
-### Philosophy
+## Philosophy
 
 > "Automate yourself out of every job you create." Three months of building with Claude taught me that the best system is the one that runs without you.
 
-### Random Facts
+## Random Facts
 
 - [Salsa dancer](https://ihberkeley.com/2024/10/18/unity-in-motion-bridging-cultures-through-dance-at-international-house/) at UC Berkeley's International House
 - [YouTuber](https://www.youtube.com/@kevinastuhuaman) with 15K+ subscribers
