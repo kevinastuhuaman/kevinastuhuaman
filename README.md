@@ -45,6 +45,7 @@ Berkeley Haas MBA, May 2026 | Ex-PayPal AI observability | BCP/Credicorp fintech
 
 - [Portfolio dossier](https://portfolio.kevinastuhuaman.com/)
 - [Recruiter packet](https://portfolio.kevinastuhuaman.com/packet/)
+- [PDF recruiter packet](https://portfolio.kevinastuhuaman.com/kevin-astuhuaman-recruiter-packet.pdf)
 - [llms.txt](https://portfolio.kevinastuhuaman.com/llms.txt)
 - [Proof ledger](https://portfolio.kevinastuhuaman.com/proof/)
 - [Structured profile JSON](https://portfolio.kevinastuhuaman.com/profile.json)
