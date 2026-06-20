@@ -25,6 +25,7 @@
 - 🔗 [usetrackly.app](https://usetrackly.app) - direct career-page monitoring for tech candidates. Public site shows 1,900+ companies and 128,975+ roles.
 - ⌨️ [trackly-cli](https://github.com/trackly-app/trackly-cli) - CLI + MCP server for Claude Code, Codex, and agent workflows.
 - 🧾 [Recruiter packet](https://portfolio.kevinastuhuaman.com/packet/) - resume, proof points, work authorization, and links in one place.
+- 📄 [PDF packet](https://portfolio.kevinastuhuaman.com/kevin-astuhuaman-recruiter-packet.pdf) - printable version for forwarding.
 - 🧠 [Proof ledger](https://portfolio.kevinastuhuaman.com/proof/) - the receipts behind the claims.
 
 <p align="center">
@@ -98,6 +99,7 @@
 <p>
   <a href="https://portfolio.kevinastuhuaman.com/"><img src="https://img.shields.io/badge/-Portfolio-111111?style=flat-square&logoColor=white" alt="Portfolio"></a>
   <a href="https://portfolio.kevinastuhuaman.com/packet/"><img src="https://img.shields.io/badge/-Recruiter_packet-1652F0?style=flat-square&logoColor=white" alt="Recruiter packet"></a>
+  <a href="https://portfolio.kevinastuhuaman.com/kevin-astuhuaman-recruiter-packet.pdf"><img src="https://img.shields.io/badge/-PDF_packet-C46B4D?style=flat-square&logoColor=white" alt="PDF packet"></a>
   <a href="https://portfolio.kevinastuhuaman.com/proof/"><img src="https://img.shields.io/badge/-Proof_ledger-4F46E5?style=flat-square&logoColor=white" alt="Proof ledger"></a>
   <a href="https://linkedin.com/in/kevinastuhuaman"><img src="https://img.shields.io/badge/-Kevin_Astuhuaman-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/kevinastuhuaman"><img src="https://img.shields.io/badge/-@kevinastuhuaman-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
