@@ -19,7 +19,7 @@ Berkeley Haas MBA, May 2026 | Ex-PayPal AI observability | BCP/Credicorp fintech
 
 - [Live web app](https://usetrackly.app): direct career-page monitoring for tech candidates.
 - [App Store](https://apps.apple.com/us/app/trackly-apply-first/id6758267565): iPhone, iPad, and Mac listing.
-- [trackly-cli](https://github.com/kevinastuhuaman/trackly-cli): CLI + MCP server for Claude Code, Codex, and agent workflows.
+- [trackly-cli](https://github.com/trackly-app/trackly-cli): CLI + MCP server for Claude Code, Codex, and agent workflows.
 
 ### AI and Agent Infrastructure
 
