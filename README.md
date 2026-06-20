@@ -2,9 +2,9 @@
 
 AI Product Manager building production AI-agent systems across recruiting automation, observability, and fintech.
 
-Berkeley Haas MBA, May 2026 · Ex-PayPal AI observability · BCP/Credicorp fintech scale · Bay Area
+Berkeley Haas MBA, May 2026 | Ex-PayPal AI observability | BCP/Credicorp fintech scale | Bay Area
 
-[Portfolio](https://portfolio.kevinastuhuaman.com/) · [Trackly](https://usetrackly.app) · [LinkedIn](https://linkedin.com/in/kevinastuhuaman) · [Writing](https://www.kevinastuhuaman.com/)
+[Portfolio](https://portfolio.kevinastuhuaman.com/) | [Trackly](https://usetrackly.app) | [LinkedIn](https://linkedin.com/in/kevinastuhuaman) | [Writing](https://www.kevinastuhuaman.com/)
 
 ## Current Focus
 
