@@ -26,10 +26,10 @@ Most recently, I built agentic observability prototypes for PayPal Checkout. I a
 
 | Repository | What it demonstrates | Publication mode |
 | --- | --- | --- |
+| [ai-investigation-workbench](https://github.com/kevinastuhuaman/ai-investigation-workbench) | Bounded agent planning, evidence provenance, uncertainty, human approval, and enterprise workflow design | Open source reconstruction |
 | [recruiting-portfolio](https://github.com/kevinastuhuaman/recruiting-portfolio) | Product storytelling, enterprise AI interaction design, accessibility, search infrastructure, and a deterministic cited assistant | Public source |
 | [trackly-cli](https://github.com/trackly-app/trackly-cli) | Agent-ready product distribution through a public CLI and MCP server | Open source |
 | [marketplace-refund-policy-kit](https://github.com/kevinastuhuaman/marketplace-refund-policy-kit) | Policy design, evidence matrices, guardrails, simulation, and shadow-mode rollout | Open source prototype |
-| [marketplace-eligibility-engine](https://github.com/kevinastuhuaman/marketplace-eligibility-engine) | Multi-market eligibility rules, service boundaries, compliance, and failure handling | Open source prototype |
 | [umami-mcp-server](https://github.com/kevinastuhuaman/umami-mcp-server) | MCP implementation and analytics interaction design in Go | Open source |
 | [trackly-cli-video](https://github.com/trackly-app/trackly-cli-video) | Product storytelling and launch-motion implementation in Remotion | Public source |
 
