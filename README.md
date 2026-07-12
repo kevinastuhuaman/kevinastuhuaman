@@ -6,6 +6,8 @@ Most recently, I built agentic observability prototypes for PayPal Checkout. I a
 
 [Portfolio](https://portfolio.kevinastuhuaman.com) | [PayPal case](https://portfolio.kevinastuhuaman.com/projects/paypal-ai-observability/) | [Resume](https://portfolio.kevinastuhuaman.com/resume/) | [LinkedIn](https://www.linkedin.com/in/kevinastuhuaman/)
 
+[![AI Investigation Workbench human-review state](https://raw.githubusercontent.com/kevinastuhuaman/ai-investigation-workbench/main/public/assets/social-preview.png)](https://kevinastuhuaman.github.io/ai-investigation-workbench/)
+
 ## Product evidence
 
 | Problem | Product decision | Inspectable proof |
