@@ -1,131 +1,44 @@
-# Hi, I'm Kevin 👋
+# Kevin Astuhuaman
 
-📍 San Francisco, CA | 🎓 Haas MBA '26 | 🔧 Ex-PayPal AI/ML Observability
+**AI Product Manager | Ex-PayPal (AI/ML Observability) | Berkeley Haas MBA '26 | 7 years building products and enjoying every minute of it.**
 
-<p>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI">
-  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white" alt="Claude">
-  <img src="https://img.shields.io/badge/-Codex-121212?style=flat-square&logoColor=white" alt="Codex">
-  <img src="https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white" alt="CLI">
-  <img src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS">
-  <img src="https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Web">
-  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logoColor=white" alt="AWS">
-</p>
+Most recently, I built agentic observability prototypes for PayPal Checkout. I also built Trackly across web, iOS, macOS, CLI, MCP, chat, and voice; worked on AI product strategy and a high-fidelity Figma prototype through Berkeley Haas; and progressed to Lead Product Manager at Banco de Credito BCP.
 
-> A product guy who loves building. 2,000+ commits in 3 months with Claude Code and Codex. "Simplicity is the ultimate sophistication." - Leonardo da Vinci
+[Portfolio](https://portfolio.kevinastuhuaman.com) | [PayPal case](https://portfolio.kevinastuhuaman.com/projects/paypal-ai-observability/) | [Resume](https://portfolio.kevinastuhuaman.com/resume/) | [LinkedIn](https://www.linkedin.com/in/kevinastuhuaman/)
 
-- 📱 [Trackly on the App Store](https://apps.apple.com/us/app/trackly-apply-first/id6758267565) - real-time tech job openings ~5 hours before LinkedIn. 50+ users in first 2 weeks.
-- 🔗 [usetrackly.app](https://usetrackly.app) - web app. Multi-agent orchestrator tracking 780+ tech companies and 98K+ jobs.
-- ⌨️ [trackly-cli](https://github.com/kevinastuhuaman/trackly-cli) - CLI + MCP Server. Bring Trackly into Claude Code, Codex, or your OpenClaw account.
+[![AI Investigation Workbench human-review state](https://raw.githubusercontent.com/kevinastuhuaman/ai-investigation-workbench/main/public/assets/social-preview.png)](https://kevinastuhuaman.github.io/ai-investigation-workbench/)
 
-<p align="center">
-  <a href="https://apps.apple.com/us/app/trackly-apply-first/id6758267565">
-    <img src="assets/trackly-app-store.png" alt="Trackly on the App Store" width="560" />
-  </a>
-</p>
+## Product evidence
 
-### Current Projects
+| Problem | Product decision | Inspectable proof |
+| --- | --- | --- |
+| **Fragmented enterprise diagnostics** | Turn scattered signals into a bounded investigation path with visible evidence, uncertainty, and human ownership. | [PayPal public-safe case](https://portfolio.kevinastuhuaman.com/projects/paypal-ai-observability/) - internship prototype and POC |
+| **Earlier, more trustworthy job signal** | Monitor company career pages directly, then treat source health, normalization, classification, matching, and delivery as one quality system. | [Trackly](https://usetrackly.app) - live product; [CLI + MCP](https://github.com/trackly-app/trackly-cli) - open source |
+| **AI adoption for business users** | Connect user and market research to feature concepts, a high-fidelity Figma prototype, roadmap, business model, and U.S. GTM. | [Berkeley Fujitsu + MoBagel challenge](https://haas.berkeley.edu/open-innovation/programs/past-challenges/) - public resume claim and official program listing |
+| **Regulated products at scale** | Balance speed, risk, compliance, distribution, and team leadership across small-business financial products. | [BCP case](https://portfolio.kevinastuhuaman.com/projects/smb-fintech-bcp-credicorp/) - production outcomes |
 
-**Agents & automation**
-- 🕷️ [job-monitor](https://github.com/kevinastuhuaman/job-monitor) - scrapes 775 companies across 22 ATS types, every 15 minutes
-- 🤖 [auto-apply-agent](https://github.com/kevinastuhuaman/auto-apply-agent) - an AI agent that fills job applications for you
-- 🗂️ [ai-chief-of-staff](https://github.com/kevinastuhuaman/ai-chief-of-staff) - briefs me every morning for 61+ days straight
-- 🔍 [hiring-manager-finder](https://github.com/kevinastuhuaman/hiring-manager-finder) - deep research via distributed workers - yes, one runs on a laptop in France
-- ✍️ [writing-voice-models](https://github.com/kevinastuhuaman/writing-voice-models) - fine-tuned GPT-4o-mini on 339 of my emails; 4 models compete on every draft
-- 💬 [contact-intelligence](https://github.com/kevinastuhuaman/contact-intelligence) - 12K LinkedIn contacts in a CRM you actually control
-- 🎭 [emotion-analysis](https://github.com/kevinastuhuaman/emotion-analysis) - Hume AI on call transcripts: 48 emotions, sentiment scoring, emotional journeys
-- 📧 [automated-followups](https://github.com/kevinastuhuaman/automated-followups) - Fireflies webhooks turn voice notes into instant thank-you emails
+## How I build AI products
 
-**LLM engineering**
-- 💰 [llm-cost-chain](https://github.com/kevinastuhuaman/llm-cost-chain) - 6-tier fallback across 6 providers; cut costs 88% ($25/day → $3)
-- 🔭 [llm-observability](https://github.com/kevinastuhuaman/llm-observability) - self-hosted Langfuse on Lightsail; fire-and-forget, zero SDK deps
-- 🧠 [semantic-search](https://github.com/kevinastuhuaman/semantic-search) - Azure AI hybrid search with HNSW vectors + keyword, 1536-dim embeddings
+- **Autonomy should be earned.** Agents can act when the action is bounded, observable, and recoverable; ambiguous or irreversible decisions need a clear human handoff.
+- **An eval is a release decision.** Golden sets, error slices, regression thresholds, and the cost of a wrong answer matter more than an aggregate model score.
+- **Complexity belongs in the system.** Interfaces should make state, evidence, permissions, failure, and recovery understandable without requiring users to become AI engineers.
+- **Each interface has its own job.** Shared product logic can span web, native apps, CLI, MCP, chat, and voice without forcing every surface into the same interaction model.
 
-**Browser & terminal tools**
-- 📝 [x-article-publisher](https://github.com/kevinastuhuaman/x-article-publisher) - publish an X article from your terminal in 60 seconds via CDP
-- 🎙️ [voice-to-newsletter](https://github.com/kevinastuhuaman/voice-to-newsletter) - voice memo → published newsletter in 3 minutes
-- 🎬 [trackly-cli-video](https://github.com/kevinastuhuaman/trackly-cli-video) - animated launch videos in React via Remotion; same workflow as the Claude Code team
-- 💡 [smart-home-workflow](https://github.com/kevinastuhuaman/smart-home-workflow) - Govee lights + Alexa as developer workflow UI
-- 📊 [command-center](https://github.com/kevinastuhuaman/command-center) - Uptime Kuma + Healthchecks + Slack alerting + PostHog analytics
+## Selected public work
 
-**Infrastructure & quality**
-- 🧪 [eval-framework](https://github.com/kevinastuhuaman/eval-framework) - 3-tier classification eval; golden test sets; CI safety checks
-- 🛠️ [claude-code-toolkit](https://github.com/kevinastuhuaman/claude-code-toolkit) - 55 Claude Code skills + 43 CLI tools
+| Repository | What it demonstrates | Publication mode |
+| --- | --- | --- |
+| [ai-investigation-workbench](https://github.com/kevinastuhuaman/ai-investigation-workbench) | Bounded agent planning, evidence provenance, uncertainty, human approval, and enterprise workflow design | Open source reconstruction |
+| [recruiting-portfolio](https://github.com/kevinastuhuaman/recruiting-portfolio) | Product storytelling, enterprise AI interaction design, accessibility, search infrastructure, and a deterministic cited assistant | Public source |
+| [trackly-cli](https://github.com/trackly-app/trackly-cli) | Agent-ready product distribution through a public CLI and MCP server | Open source |
+| [marketplace-refund-policy-kit](https://github.com/kevinastuhuaman/marketplace-refund-policy-kit) | Policy design, evidence matrices, guardrails, simulation, and shadow-mode rollout | Open source prototype |
+| [umami-mcp-server](https://github.com/kevinastuhuaman/umami-mcp-server) | MCP implementation and analytics interaction design in Go | Open source |
+| [trackly-cli-video](https://github.com/trackly-app/trackly-cli-video) | Product storytelling and launch-motion implementation in Remotion | Public source |
 
-**Native apps (closed source)**
-- 📱 TracklyApp - SwiftUI, NLP search with fuzzy matching, App Store approved
-- 🖥️ TracklyMac - SwiftUI desktop, keyboard-first design, App Store approved
+## Public work and private IP
 
-**Open source**
-- 📈 [umami-mcp-server](https://github.com/kevinastuhuaman/umami-mcp-server) - Go MCP server for behavioral analytics; published to Glama.ai + LobeHub
+Some work is open source. Some is public source without a reuse license. Some is an original public-safe reconstruction or evidence case because it comes from a live business or employer environment. I do not publish production credentials, customer or applicant data, employer-confidential artifacts, proprietary prompts, security-sensitive operating detail, or closed production source code.
 
-**Marketplace trust & risk**
-- 🎯 [cold-start-abuse-scorer](https://github.com/kevinastuhuaman/cold-start-abuse-scorer) - rank risky entities with zero fraud labels; percentile-based, no-leakage, anti-leakage by construction
-- 🛡️ [marketplace-refund-policy-kit](https://github.com/kevinastuhuaman/marketplace-refund-policy-kit) - forkable policy.yaml + interactive simulator + Node shadow-mode evaluator; ship a fair refund policy in days
+**Working range:** AI product strategy | Agent workflows | Human-in-the-loop systems | LLM evals | AI observability | MCP and APIs | Product analytics | Fintech and risk | Figma | SwiftUI | TypeScript | Node.js | Go | Python
 
----
-
-### What I'm Doing
-
-- **Building in public** - shipping production systems with Claude Code and sharing what I learn
-- **Speaking at Berkeley Haas** - presenting AI coding workflows to MBA classmates
-- **Exploring evals** - classification pipelines and golden test sets for job data at scale
-
-### By the Numbers
-
-> 2,000+ commits · 21 repos · 775 companies monitored · 94K jobs tracked · 124 DB migrations · 301 tests · 55 skills · 43 CLI tools · 88% LLM cost reduction · 61 consecutive AI briefings · 12K contacts imported
-
-### GitHub Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/30a14e/kevinastuhuaman" />
-  <img src="https://ghchart.rshah.org/kevinastuhuaman" alt="GitHub Contribution Graph" />
-</picture>
-
----
-
-### Connect
-
-<p>
-  <a href="https://linkedin.com/in/kevinastuhuaman"><img src="https://img.shields.io/badge/-Kevin_Astuhuaman-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/kevinastuhuaman"><img src="https://img.shields.io/badge/-@kevinastuhuaman-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://www.youtube.com/@kevinastuhuaman"><img src="https://img.shields.io/badge/-@kevinastuhuaman-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://www.kevinastuhuaman.com/"><img src="https://img.shields.io/badge/-Newsletter-FF6600?style=flat-square&logo=substack&logoColor=white" alt="Newsletter"></a>
-  <a href="https://open.spotify.com/show/6OvPmvIDQh70CpLyU2DqkO"><img src="https://img.shields.io/badge/-Podcast-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-  <a href="https://usetrackly.app"><img src="https://img.shields.io/badge/-usetrackly.app-6366F1?style=flat-square&logoColor=white" alt="Trackly"></a>
-  <a href="https://github.com/kevinastuhuaman"><img src="https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
-
----
-
-### Recognition
-
-- **Co-organized Berkeley Haas' first-ever AI & Tech Summit**
-- **Slusser Scholarship**, **Ida K. Rigby Scholarship**, **I-House Scholarship** recipient
-- **VP, Haas Tech Club** + **VP, Product Management Club** at UC Berkeley Haas
-- Expanded loan access to **100,000+ SMEs** at BCP-Credicorp (NYSE: BAP), Peru's largest bank
-- Co-founded **Metta Uno** - EdTech platform for SQL and Python upskilling
-
-### Media
-
-- [PUCP Engineering Faculty feature](https://facultad-ciencias-ingenieria.pucp.edu.pe/2024/10/07/kevin-astuhuaman-egresado-de-ingenieria-industrial-admitido-a-maestria-en-berkeley/) - interview on Berkeley admission
-- [Diario Gestion](https://gestion.pe/tu-dinero/finanzas-personales/prepagos-de-creditos-en-que-momento-hacerlo-para-ahorrar-mas-en-intereses-noticia/) - Peru's top economics newspaper
-- [BCP SME platform launch](https://youtu.be/w_49sTlM1DA?si=NqwLbs-kBTUmpfpL) - YouTube video, 730K+ views
-- [Berkeley Haas admits dinner](https://newsroom.haas.berkeley.edu/issue/spring-2024/worldwide-events-spring-2024/) - Haas newsroom feature
-- [Beyond the Backlog](https://podcasts.apple.com/za/podcast/beyond-the-backlog/id1812138539) - co-host of Berkeley's first PM podcast (Apple Podcasts, iHeart, Spotify)
-
-### Philosophy
-
-> "Automate yourself out of every job you create." - 3 months of building with Claude taught me that the best system is the one that runs without you.
-
-### Random Facts
-
-- [Salsa dancer](https://ihberkeley.com/2024/10/18/unity-in-motion-bridging-cultures-through-dance-at-international-house/) - bridged cultures through dance at UC Berkeley's International House
-- [YouTuber](https://www.youtube.com/@kevinastuhuaman) - 15K+ subscribers; Personal Finance channel cited by Peru's largest economics newspaper
-- Run 3-6 Claude Code instances concurrently
+**Contact:** [Portfolio](https://portfolio.kevinastuhuaman.com) | [Resume](https://portfolio.kevinastuhuaman.com/resume/) | [LinkedIn](https://www.linkedin.com/in/kevinastuhuaman/) | [Email](mailto:kevin.astuhuaman@berkeley.edu)
