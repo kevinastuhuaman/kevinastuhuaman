@@ -4,7 +4,7 @@
 
 Most recently, I built agentic observability prototypes for PayPal Checkout. I also built Trackly across web, iOS, macOS, CLI, MCP, chat, and voice; worked on AI product strategy and a high-fidelity Figma prototype through Berkeley Haas; and progressed to Lead Product Manager at Banco de Credito BCP.
 
-[Portfolio](https://portfolio.kevinastuhuaman.com) | [PayPal case](https://portfolio.kevinastuhuaman.com/projects/paypal-ai-observability/) | [Resume](https://portfolio.kevinastuhuaman.com/resume/) | [LinkedIn](https://www.linkedin.com/in/kevinastuhuaman/)
+[Portfolio](https://portfolio.kevinastuhuaman.com) | [PayPal case](https://portfolio.kevinastuhuaman.com/projects/paypal-ai-observability/) | [Builder stack](https://kevinastuhuaman.github.io/ai-product-builder-stack/) | [Resume](https://portfolio.kevinastuhuaman.com/resume/) | [LinkedIn](https://www.linkedin.com/in/kevinastuhuaman/)
 
 [![AI Investigation Workbench human-review state](https://raw.githubusercontent.com/kevinastuhuaman/ai-investigation-workbench/main/public/assets/social-preview.png)](https://kevinastuhuaman.github.io/ai-investigation-workbench/)
 
@@ -14,6 +14,7 @@ Most recently, I built agentic observability prototypes for PayPal Checkout. I a
 | --- | --- | --- |
 | **Fragmented enterprise diagnostics** | Turn scattered signals into a bounded investigation path with visible evidence, uncertainty, and human ownership. | [PayPal public-safe case](https://portfolio.kevinastuhuaman.com/projects/paypal-ai-observability/) - internship prototype and POC |
 | **Earlier, more trustworthy job signal** | Monitor company career pages directly, then treat source health, normalization, classification, matching, and delivery as one quality system. | [Trackly](https://usetrackly.app) - live product; [CLI + MCP](https://github.com/trackly-app/trackly-cli) - open source |
+| **Browser workflows without surrendering control** | Ground a computer-use agent in selected Trackly context, encode ATS-specific form rules, verify committed state, and require fresh human approval before submission. | [Trackly browser-agent case](https://portfolio.kevinastuhuaman.com/projects/trackly/) - recent working experiment |
 | **AI adoption for business users** | Connect user and market research to feature concepts, a high-fidelity Figma prototype, roadmap, business model, and U.S. GTM. | [Berkeley Fujitsu + MoBagel challenge](https://haas.berkeley.edu/open-innovation/programs/past-challenges/) - public resume claim and official program listing |
 | **Regulated products at scale** | Balance speed, risk, compliance, distribution, and team leadership across small-business financial products. | [BCP case](https://portfolio.kevinastuhuaman.com/projects/smb-fintech-bcp-credicorp/) - production outcomes |
 
@@ -28,6 +29,7 @@ Most recently, I built agentic observability prototypes for PayPal Checkout. I a
 
 | Repository | What it demonstrates | Publication mode |
 | --- | --- | --- |
+| [ai-product-builder-stack](https://github.com/kevinastuhuaman/ai-product-builder-stack) | Evidence-backed technical range across 65 tools and patterns, eight capability layers, and four end-to-end systems | Open source interactive map |
 | [ai-investigation-workbench](https://github.com/kevinastuhuaman/ai-investigation-workbench) | Bounded agent planning, evidence provenance, uncertainty, human approval, and enterprise workflow design | Open source reconstruction |
 | [recruiting-portfolio](https://github.com/kevinastuhuaman/recruiting-portfolio) | Product storytelling, enterprise AI interaction design, accessibility, search infrastructure, and a deterministic cited assistant | Public source |
 | [trackly-cli](https://github.com/trackly-app/trackly-cli) | Agent-ready product distribution through a public CLI and MCP server | Open source |
@@ -39,6 +41,6 @@ Most recently, I built agentic observability prototypes for PayPal Checkout. I a
 
 Some work is open source. Some is public source without a reuse license. Some is an original public-safe reconstruction or evidence case because it comes from a live business or employer environment. I do not publish production credentials, customer or applicant data, employer-confidential artifacts, proprietary prompts, security-sensitive operating detail, or closed production source code.
 
-**Working range:** AI product strategy | Agent workflows | Human-in-the-loop systems | LLM evals | AI observability | MCP and APIs | Product analytics | Fintech and risk | Figma | SwiftUI | TypeScript | Node.js | Go | Python
+**Working range:** AI product strategy | Agent workflows | Human-in-the-loop systems | LLM evals | AI observability | Azure and AWS | Terraform | MCP and APIs | Product analytics | Fintech and risk | Figma | SwiftUI | TypeScript | Node.js | Go | Python
 
 **Contact:** [Portfolio](https://portfolio.kevinastuhuaman.com) | [Resume](https://portfolio.kevinastuhuaman.com/resume/) | [LinkedIn](https://www.linkedin.com/in/kevinastuhuaman/) | [Email](mailto:kevin.astuhuaman@berkeley.edu)
