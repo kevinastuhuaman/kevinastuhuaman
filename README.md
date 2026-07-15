@@ -1,12 +1,44 @@
-# Kevin Astuhuaman
+# Hi, I'm Kevin 👋
 
-**AI Product Manager | Ex-PayPal (AI/ML Observability) | Berkeley Haas MBA '26 | 7 years building products and enjoying every minute of it.**
+📍 San Francisco, CA | 🎓 Haas MBA '26 | 🔧 Ex-PayPal AI/ML Observability
 
-Most recently, I built agentic observability prototypes for PayPal Checkout. I also built Trackly across web, iOS, macOS, CLI, MCP, chat, and voice; worked on AI product strategy and a high-fidelity Figma prototype through Berkeley Haas; and progressed to Lead Product Manager at Banco de Credito BCP.
+<p>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI">
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/-Codex-121212?style=flat-square&logoColor=white" alt="Codex">
+  <img src="https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white" alt="CLI">
+  <img src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS">
+  <img src="https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Web">
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logoColor=white" alt="AWS">
+</p>
 
-[Portfolio](https://portfolio.kevinastuhuaman.com) | [PayPal case](https://portfolio.kevinastuhuaman.com/projects/paypal-ai-observability/) | [Enterprise AI Interface Kit](https://kevinastuhuaman.github.io/enterprise-ai-interface-kit/) | [Builder stack](https://kevinastuhuaman.github.io/ai-product-builder-stack/) | [Human Control Plane](https://kevinastuhuaman.github.io/human-in-the-loop-patterns/) | [Motion studies](https://kevinastuhuaman.github.io/ai-product-motion-studies/) | [Resume](https://portfolio.kevinastuhuaman.com/resume/) | [LinkedIn](https://www.linkedin.com/in/kevinastuhuaman/)
+> A product guy who loves building. And a big Bad Bunny fan. “Simplicity is the ultimate sophistication.” — Leonardo da Vinci
 
-[![Enterprise AI Interface Kit showing evidence, confidence, authority, and approval in one operator workflow](https://raw.githubusercontent.com/kevinastuhuaman/enterprise-ai-interface-kit/main/public/social-preview.png)](https://kevinastuhuaman.github.io/enterprise-ai-interface-kit/)
+[Portfolio](https://portfolio.kevinastuhuaman.com) | [Ask my portfolio](https://portfolio.kevinastuhuaman.com/ask/) | [PayPal case](https://portfolio.kevinastuhuaman.com/projects/paypal-ai-observability/) | [Resume](https://portfolio.kevinastuhuaman.com/resume/) | [LinkedIn](https://www.linkedin.com/in/kevinastuhuaman/)
+
+<p align="center">
+  <a href="https://portfolio.kevinastuhuaman.com">
+    <img src="assets/portfolio-preview.png" alt="Kevin Astuhuaman's AI Product Manager portfolio" width="100%" />
+  </a>
+</p>
+
+## Building Trackly
+
+- 📱 [Trackly on the App Store](https://apps.apple.com/us/app/trackly-apply-first/id6758267565) - real-time tech job openings before they reach job boards.
+- 🔗 [usetrackly.app](https://usetrackly.app) - the live web product monitoring 3,884 active company career sites and 173,864 active jobs.
+- ⌨️ [trackly-cli](https://github.com/trackly-app/trackly-cli) - open-source CLI and MCP server for bringing Trackly into agent workflows.
+
+<p align="center">
+  <a href="https://apps.apple.com/us/app/trackly-apply-first/id6758267565">
+    <img src="assets/trackly-app-store.png" alt="Trackly on the App Store" width="720" />
+  </a>
+</p>
 
 ## Product evidence
 
