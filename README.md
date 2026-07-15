@@ -106,9 +106,9 @@ A product guy who loves building (and a big Bad Bunny fan). I deeply believe com
 ## Recognition
 
 - Co-organized Berkeley Haas' first AI & Tech Summit.
-- Slusser, Ida K. Rigby, and I-House scholarship recipient.
-- VP of the Haas Tech Club and Product Management Club.
-- Helped 100,000+ small businesses access a first loan at BCP / Credicorp.
+- Slusser Scholarship, Ida K. Rigby Scholarship, I-House Scholarship recipient.
+- VP, Haas Tech Club + VP, Product Management Club at UC Berkeley Haas.
+- Expanded loan access to 100,000+ small businesses at Peru's largest bank (NYSE: BAP).
 - Co-founded Metta Uno, an EdTech platform for learning SQL and Python.
 
 ## Media
