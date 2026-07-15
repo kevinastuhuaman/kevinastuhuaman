@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logoColor=white" alt="AWS">
 </p>
 
-> A product guy who loves building. And a big Bad Bunny fan. “Simplicity is the ultimate sophistication.” — Leonardo da Vinci
+> A product guy who loves building. And a big Bad Bunny fan. "Simplicity is the ultimate sophistication." - Leonardo da Vinci
 
 [Portfolio](https://portfolio.kevinastuhuaman.com) | [Ask my portfolio](https://portfolio.kevinastuhuaman.com/ask/) | [PayPal case](https://portfolio.kevinastuhuaman.com/projects/paypal-ai-observability/) | [Resume](https://portfolio.kevinastuhuaman.com/resume/) | [LinkedIn](https://www.linkedin.com/in/kevinastuhuaman/)
 
@@ -36,52 +36,81 @@
 
 <p align="center">
   <a href="https://apps.apple.com/us/app/trackly-apply-first/id6758267565">
-    <img src="assets/trackly-app-store.png" alt="Trackly on the App Store" width="720" />
+    <img src="assets/trackly-app-store.png" alt="Trackly on the App Store" width="560" />
   </a>
 </p>
 
-## Product evidence
+## Current projects
 
-| Problem | Product decision | Inspectable proof |
-| --- | --- | --- |
-| **Fragmented enterprise diagnostics** | Turn scattered signals into a bounded investigation path with visible evidence, uncertainty, and human ownership. | [PayPal public-safe case](https://portfolio.kevinastuhuaman.com/projects/paypal-ai-observability/) - internship prototype and POC |
-| **Earlier, more trustworthy job signal** | Monitor company career pages directly, then treat source health, normalization, classification, matching, and delivery as one quality system. | [Trackly](https://usetrackly.app) - live product; [CLI + MCP](https://github.com/trackly-app/trackly-cli) - open source |
-| **Browser workflows without surrendering control** | Ground a computer-use agent in selected Trackly context, encode ATS-specific form rules, verify committed state, and require fresh human approval before submission. | [Trackly browser-agent case](https://portfolio.kevinastuhuaman.com/projects/trackly/) - recent working experiment |
-| **Consequential AI actions** | Choose the control from consequence, reversibility, uncertainty, and intent freshness instead of labeling every checkpoint "human in the loop." | [Human Control Plane](https://kevinastuhuaman.github.io/human-in-the-loop-patterns/) - interactive product study and public source |
-| **Enterprise AI that hides its operating boundaries** | Package provenance, calibrated confidence, role permissions, state-bound approval, observable traces, scoped recovery, and honest absence into one operator workflow. | [Enterprise AI Interface Kit](https://kevinastuhuaman.github.io/enterprise-ai-interface-kit/) - 7 inspectable product contracts and public source |
-| **Complex AI state that users cannot see** | Use motion to expose structure, refocus attention during failure, and preserve product continuity across surfaces. | [AI Product Motion Studies](https://kevinastuhuaman.github.io/ai-product-motion-studies/) - 3 studies, 13 inspectable states, and a public motion contract |
-| **AI adoption for business users** | Connect user and market research to feature concepts, a high-fidelity Figma prototype, roadmap, business model, and U.S. GTM. | [Berkeley Fujitsu + MoBagel challenge](https://haas.berkeley.edu/open-innovation/programs/past-challenges/) - public resume claim and official program listing |
-| **Regulated products at scale** | Balance speed, risk, compliance, distribution, and team leadership across small-business financial products. | [BCP case](https://portfolio.kevinastuhuaman.com/projects/smb-fintech-bcp-credicorp/) - production outcomes |
+### Case studies
 
-## How I build AI products
+- 💳 [PayPal Checkout](https://portfolio.kevinastuhuaman.com/projects/paypal-ai-observability/) - agentic observability prototype and POC for faster investigations.
+- 🏦 [BCP / Credicorp](https://portfolio.kevinastuhuaman.com/projects/smb-fintech-bcp-credicorp/) - six years building products for small businesses in a regulated bank.
+- 🎓 [Berkeley × MoBagel](https://portfolio.kevinastuhuaman.com/projects/berkeley-mobagel-ai-gtm/) - discovery, Figma, roadmap, pricing, and U.S. go-to-market for an AI platform.
+- 🤖 [Ask my portfolio](https://portfolio.kevinastuhuaman.com/ask/) - a grounded chat and voice assistant for exploring my work.
 
-- **Capability is not permission.** The right control might be Undo, confirmation, fresh approval, or an accountable owner; it depends on the action, not only on what the model can do.
-- **An eval is a release decision.** Golden sets, error slices, regression thresholds, and the cost of a wrong answer matter more than an aggregate model score.
-- **Complexity belongs in the system.** Interfaces should make state, evidence, permissions, failure, and recovery understandable without requiring users to become AI engineers.
-- **Motion should explain what changed.** Continuity, sequencing, and refocus are product information; decoration is not.
-- **Each interface has its own job.** Shared product logic can span web, native apps, CLI, MCP, chat, and voice without forcing every surface into the same interaction model.
+### Agents, controls, and evals
 
-## Selected public work
+- 🔍 [ai-investigation-workbench](https://github.com/kevinastuhuaman/ai-investigation-workbench) - turn scattered signals into an investigation a person can review.
+- 🧭 [human-in-the-loop-patterns](https://github.com/kevinastuhuaman/human-in-the-loop-patterns) - choose when AI should undo, confirm, ask, or hand off.
+- 🧱 [agent-workflow-canvas](https://github.com/kevinastuhuaman/agent-workflow-canvas) - map tools, approvals, failures, and recovery before writing code.
+- 🧪 [evals-control-room](https://github.com/kevinastuhuaman/evals-control-room) - compare models, inspect errors, and decide what ships.
 
-| Repository | What it demonstrates | Publication mode |
-| --- | --- | --- |
-| [enterprise-ai-interface-kit](https://github.com/kevinastuhuaman/enterprise-ai-interface-kit) | One coherent enterprise operator workflow across provenance, calibrated confidence, authority, approval, observable traces, scoped recovery, and honest empty states | Open source reference product |
-| [ai-product-builder-stack](https://github.com/kevinastuhuaman/ai-product-builder-stack) | Evidence-backed technical range across 65 tools and patterns, eight capability layers, and four end-to-end systems | Open source interactive map |
-| [human-in-the-loop-patterns](https://github.com/kevinastuhuaman/human-in-the-loop-patterns) | Control-policy design across Undo, confirmation, fresh approval, accountable ownership, recovery, and audit | Open source interactive lab |
-| [ai-product-motion-studies](https://github.com/kevinastuhuaman/ai-product-motion-studies) | Interaction design for workflow structure, accountable recovery, cross-surface continuity, and reduced motion | Open source interactive studies |
-| [agent-workflow-canvas](https://github.com/kevinastuhuaman/agent-workflow-canvas) | Enterprise workflow design with run-bound approvals, audit traces, and fail-closed recovery | Open source interactive builder |
-| [evals-control-room](https://github.com/kevinastuhuaman/evals-control-room) | LLM regression triage, model tradeoffs, error slices, and explicit promotion gates | Open source interactive control room |
-| [ai-investigation-workbench](https://github.com/kevinastuhuaman/ai-investigation-workbench) | Bounded agent planning, evidence provenance, uncertainty, human approval, and enterprise workflow design | Open source reconstruction |
-| [recruiting-portfolio](https://github.com/kevinastuhuaman/recruiting-portfolio) | Product storytelling, enterprise AI interaction design, accessibility, search infrastructure, and a deterministic cited assistant | Public source |
-| [trackly-cli](https://github.com/trackly-app/trackly-cli) | Agent-ready product distribution through a public CLI and MCP server | Open source |
-| [marketplace-refund-policy-kit](https://github.com/kevinastuhuaman/marketplace-refund-policy-kit) | Policy design, evidence matrices, guardrails, simulation, and shadow-mode rollout | Open source prototype |
-| [umami-mcp-server](https://github.com/kevinastuhuaman/umami-mcp-server) | MCP implementation and analytics interaction design in Go | Open source |
-| [trackly-cli-video](https://github.com/trackly-app/trackly-cli-video) | Product storytelling and launch-motion implementation in Remotion | Public source |
+### Interfaces and motion
 
-## Public work and private IP
+- 🧰 [ai-product-builder-stack](https://github.com/kevinastuhuaman/ai-product-builder-stack) - 65 tools and patterns mapped to real product work.
+- 🖥️ [enterprise-ai-interface-kit](https://github.com/kevinastuhuaman/enterprise-ai-interface-kit) - seven patterns for AI products people can actually operate.
+- 🎬 [ai-product-motion-studies](https://github.com/kevinastuhuaman/ai-product-motion-studies) - motion that explains state, failure, and recovery.
 
-Some work is open source. Some is public source without a reuse license. Some is an original public-safe reconstruction or evidence case because it comes from a live business or employer environment. I do not publish production credentials, customer or applicant data, employer-confidential artifacts, proprietary prompts, security-sensitive operating detail, or closed production source code.
+### Tools and experiments
 
-**Working range:** AI product strategy | Agent workflows | Human-in-the-loop systems | LLM evals | AI observability | Azure and AWS | Terraform | MCP and APIs | Product analytics | Fintech and risk | Figma | SwiftUI | TypeScript | Node.js | Go | Python
+- ⌨️ [trackly-cli](https://github.com/trackly-app/trackly-cli) - Trackly from the terminal, plus an MCP server for AI agents.
+- 📈 [umami-mcp-server](https://github.com/kevinastuhuaman/umami-mcp-server) - ask questions about product analytics through MCP.
+- 🛡️ [marketplace-refund-policy-kit](https://github.com/kevinastuhuaman/marketplace-refund-policy-kit) - simulate a refund policy before real customers feel it.
+- 🎞️ [trackly-cli-video](https://github.com/trackly-app/trackly-cli-video) - a launch video built in React and Remotion.
 
-**Contact:** [Portfolio](https://portfolio.kevinastuhuaman.com) | [Resume](https://portfolio.kevinastuhuaman.com/resume/) | [LinkedIn](https://www.linkedin.com/in/kevinastuhuaman/) | [Email](mailto:kevin.astuhuaman@berkeley.edu)
+---
+
+## What I'm doing
+
+- **Building Trackly** - shipping across web, iOS, macOS, CLI, MCP, chat, and voice.
+- **Finishing my Haas MBA** - learning from people who see products very differently than I do.
+- **Building in public** - turning product questions into demos you can click, test, and challenge.
+
+## By the numbers
+
+> 7 years building products · 3,884 active company career sites · 173,864 active jobs · 40 ATS and source types · 65 AI tools and patterns · 100,000+ small businesses reached
+
+Trackly snapshot: July 14, 2026.
+
+## GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/30a14e/kevinastuhuaman" />
+  <img src="https://ghchart.rshah.org/kevinastuhuaman" alt="Kevin Astuhuaman's GitHub contribution graph" />
+</picture>
+
+---
+
+## Connect
+
+<p>
+  <a href="https://linkedin.com/in/kevinastuhuaman"><img src="https://img.shields.io/badge/-Kevin_Astuhuaman-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/kevinastuhuaman"><img src="https://img.shields.io/badge/-@kevinastuhuaman-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.youtube.com/@kevinastuhuaman"><img src="https://img.shields.io/badge/-@kevinastuhuaman-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://open.spotify.com/show/6OvPmvIDQh70CpLyU2DqkO"><img src="https://img.shields.io/badge/-Podcast-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+  <a href="https://usetrackly.app"><img src="https://img.shields.io/badge/-usetrackly.app-7C3AED?style=flat-square&logoColor=white" alt="Trackly"></a>
+  <a href="https://github.com/kevinastuhuaman"><img src="https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+## Recognition
+
+- Co-organized Berkeley Haas' first AI & Tech Summit.
+- Slusser, Ida K. Rigby, and I-House scholarship recipient.
+- VP of the Haas Tech Club and Product Management Club.
+- Helped 100,000+ small businesses access a first loan at BCP / Credicorp.
+- Co-founded Metta Uno, an EdTech platform for learning SQL and Python.
+
+---
+
+Some work is open source. Some is a public-safe reconstruction because the real thing belongs to an employer or a live business. Customer data, private source, and production credentials stay private.
