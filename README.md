@@ -31,7 +31,7 @@
 ## Building Trackly
 
 - 📱 [Trackly on the App Store](https://apps.apple.com/us/app/trackly-apply-first/id6758267565) - real-time tech job openings before they reach job boards.
-- 🔗 [usetrackly.app](https://usetrackly.app) - the live web product monitoring 3,884 active company career sites and 173,864 active jobs.
+- 🔗 [usetrackly.app](https://usetrackly.app) - the live web product that monitors 3,884 active company career sites and 173,864 active jobs as of July 14, 2026.
 - ⌨️ [trackly-cli](https://github.com/trackly-app/trackly-cli) - open-source CLI and MCP server for bringing Trackly into agent workflows.
 
 <p align="center">
