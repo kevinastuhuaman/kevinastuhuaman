@@ -22,7 +22,7 @@ A product guy who loves building (and a big Bad Bunny fan). I deeply believe com
 
 > "Simplicity is the ultimate sophistication." - Leonardo da Vinci
 
-[Portfolio](https://portfolio.kevinastuhuaman.com) | [Ask my portfolio](https://portfolio.kevinastuhuaman.com/ask/) | [PayPal case](https://portfolio.kevinastuhuaman.com/projects/paypal-ai-observability/) | [Resume](https://portfolio.kevinastuhuaman.com/resume/) | [LinkedIn](https://www.linkedin.com/in/kevinastuhuaman/)
+## My portfolio
 
 <p align="center">
   <a href="https://portfolio.kevinastuhuaman.com">
@@ -106,10 +106,24 @@ A product guy who loves building (and a big Bad Bunny fan). I deeply believe com
 ## Recognition
 
 - Co-organized Berkeley Haas' first AI & Tech Summit.
-- Slusser, Ida K. Rigby, and I-House scholarship recipient.
-- VP of the Haas Tech Club and Product Management Club.
-- Helped 100,000+ small businesses access a first loan at BCP / Credicorp.
+- Slusser Scholarship, Ida K. Rigby Scholarship, I-House Scholarship recipient.
+- VP, Haas Tech Club + VP, Product Management Club at UC Berkeley Haas.
+- Expanded loan access to 100,000+ small businesses at Peru's largest bank (NYSE: BAP).
 - Co-founded Metta Uno, an EdTech platform for learning SQL and Python.
+
+## Media
+
+- 🎓 [PUCP Engineering Faculty feature](https://facultad-ciencias-ingenieria.pucp.edu.pe/2024/10/07/kevin-astuhuaman-egresado-de-ingenieria-industrial-admitido-a-maestria-en-berkeley/) - interview on my Berkeley admission.
+- 📰 [Diario Gestion](https://gestion.pe/tu-dinero/finanzas-personales/prepagos-de-creditos-en-que-momento-hacerlo-para-ahorrar-mas-en-intereses-noticia/) - featured in Peru's top economics newspaper.
+- 🏦 [BCP SME platform launch](https://youtu.be/w_49sTlM1DA?si=NqwLbs-kBTUmpfpL) - product launch video with 730K+ views.
+- 🐻 [Berkeley Haas admits dinner](https://newsroom.haas.berkeley.edu/issue/spring-2024/worldwide-events-spring-2024/) - Haas newsroom feature.
+- 🎙️ [Beyond the Backlog](https://podcasts.apple.com/za/podcast/beyond-the-backlog/id1812138539) - co-host of Berkeley's first PM podcast.
+
+## Random facts
+
+- 💃 [Salsa dancer](https://ihberkeley.com/2024/10/18/unity-in-motion-bridging-cultures-through-dance-at-international-house/) - bridged cultures through dance at UC Berkeley's International House.
+- 📺 [YouTuber](https://www.youtube.com/@kevinastuhuaman) - 15K+ subscribers; my personal finance channel was cited by Peru's largest economics newspaper.
+- 🤖 [Straude](https://straude.com/u/kevinastuhuaman) - $100K+ in tracked token spend; [Garry Tan](https://straude.com/u/garrytan) follows me.
 
 ---
 
