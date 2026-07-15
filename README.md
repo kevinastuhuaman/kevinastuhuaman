@@ -26,7 +26,7 @@ A product guy who loves building (and a big Bad Bunny fan). I deeply believe com
 
 <p align="center">
   <a href="https://youtu.be/gGQ1NOzykDo">
-    <img src="assets/trackly-demo-preview.gif" alt="Watch the full Trackly product demo on YouTube" width="100%" />
+    <img src="assets/trackly-demo-preview.webp" alt="Watch the full Trackly product demo on YouTube" width="100%" />
   </a>
 </p>
 
