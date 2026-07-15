@@ -22,7 +22,7 @@ A product guy who loves building (and a big Bad Bunny fan). I deeply believe com
 
 > "Simplicity is the ultimate sophistication." - Leonardo da Vinci
 
-[Portfolio](https://portfolio.kevinastuhuaman.com) | [Ask my portfolio](https://portfolio.kevinastuhuaman.com/ask/) | [PayPal case](https://portfolio.kevinastuhuaman.com/projects/paypal-ai-observability/) | [Resume](https://portfolio.kevinastuhuaman.com/resume/) | [LinkedIn](https://www.linkedin.com/in/kevinastuhuaman/)
+## My portfolio
 
 <p align="center">
   <a href="https://portfolio.kevinastuhuaman.com">
