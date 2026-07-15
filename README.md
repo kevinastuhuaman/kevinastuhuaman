@@ -22,23 +22,31 @@ A product guy who loves building (and a big Bad Bunny fan). I deeply believe com
 
 > "Simplicity is the ultimate sophistication." - Leonardo da Vinci
 
-## My portfolio
+## Building Trackly
 
 <p align="center">
-  <a href="https://portfolio.kevinastuhuaman.com">
-    <img src="assets/portfolio-preview.png" alt="Kevin Astuhuaman's AI Product Manager portfolio" width="100%" />
+  <a href="https://youtu.be/gGQ1NOzykDo">
+    <img src="assets/trackly-demo-preview.gif" alt="Watch the full Trackly product demo on YouTube" width="100%" />
   </a>
 </p>
-
-## Building Trackly
 
 - 📱 [Trackly on the App Store](https://apps.apple.com/us/app/trackly-apply-first/id6758267565) - real-time tech job openings before they reach job boards.
 - 🔗 [usetrackly.app](https://usetrackly.app) - the live web product that monitors 3,800+ active company career sites with 170,800+ active jobs.
 - ⌨️ [trackly-cli](https://github.com/trackly-app/trackly-cli) - open-source CLI and MCP server for bringing Trackly into agent workflows.
 
+> 🐻 [Featured by Berkeley Haas](https://newsroom.haas.berkeley.edu/at-the-epicenter-how-mba-students-are-leveraging-berkeleys-ai-boom/) for creating Trackly to give applicants a first-mover advantage.
+
 <p align="center">
   <a href="https://apps.apple.com/us/app/trackly-apply-first/id6758267565">
     <img src="assets/trackly-app-store.png" alt="Trackly on the App Store" width="560" />
+  </a>
+</p>
+
+## My portfolio
+
+<p align="center">
+  <a href="https://portfolio.kevinastuhuaman.com">
+    <img src="assets/portfolio-preview.png" alt="Kevin Astuhuaman's AI Product Manager portfolio" width="100%" />
   </a>
 </p>
 
