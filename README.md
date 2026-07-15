@@ -68,6 +68,7 @@ A product guy who loves building (and a big Bad Bunny fan). I deeply believe com
 
 ### Interfaces and motion
 
+- 🎞️ [apple-keynote-motion](https://github.com/kevinastuhuaman/apple-keynote-motion) - create, audit, and verify native Apple-style motion in Keynote.
 - 🧰 [ai-product-builder-stack](https://github.com/kevinastuhuaman/ai-product-builder-stack) - 65 tools and patterns mapped to real product work.
 - 🖥️ [enterprise-ai-interface-kit](https://github.com/kevinastuhuaman/enterprise-ai-interface-kit) - seven patterns for AI products people can actually operate.
 - 🎬 [ai-product-motion-studies](https://github.com/kevinastuhuaman/ai-product-motion-studies) - motion that explains state, failure, and recovery.
