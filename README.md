@@ -18,7 +18,8 @@
   <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logoColor=white" alt="AWS">
 </p>
 
-> A product guy who loves building (and a big Bad Bunny fan). Where is it written that our dreams must be small?<br>
+A product guy who loves building (and a big Bad Bunny fan). I deeply believe that comfort is the most expensive thing you'll ever buy.
+
 > "Simplicity is the ultimate sophistication." - Leonardo da Vinci
 
 [Portfolio](https://portfolio.kevinastuhuaman.com) | [Ask my portfolio](https://portfolio.kevinastuhuaman.com/ask/) | [PayPal case](https://portfolio.kevinastuhuaman.com/projects/paypal-ai-observability/) | [Resume](https://portfolio.kevinastuhuaman.com/resume/) | [LinkedIn](https://www.linkedin.com/in/kevinastuhuaman/)
