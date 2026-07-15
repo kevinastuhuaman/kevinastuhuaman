@@ -33,7 +33,7 @@ A product guy who loves building (and a big Bad Bunny fan). I deeply believe com
 ## Building Trackly
 
 - 📱 [Trackly on the App Store](https://apps.apple.com/us/app/trackly-apply-first/id6758267565) - real-time tech job openings before they reach job boards.
-- 🔗 [usetrackly.app](https://usetrackly.app) - the live web product that monitors 3,884 active company career sites and 173,864 active jobs as of July 14, 2026.
+- 🔗 [usetrackly.app](https://usetrackly.app) - the live web product that monitors 3,800+ active company career sites with 170,800+ active jobs.
 - ⌨️ [trackly-cli](https://github.com/trackly-app/trackly-cli) - open-source CLI and MCP server for bringing Trackly into agent workflows.
 
 <p align="center">
@@ -81,9 +81,7 @@ A product guy who loves building (and a big Bad Bunny fan). I deeply believe com
 
 ## By the numbers
 
-> 7 years building products · 3,884 active company career sites · 173,864 active jobs · 40 ATS and source types · 65 AI tools and patterns · 100,000+ small businesses reached
-
-Trackly snapshot: July 14, 2026.
+> 7 years building products · 3,800+ active company career sites · 170,800+ active jobs · 40 ATS and source types · 65 AI tools and patterns · 100,000+ small businesses reached
 
 ## GitHub activity
 
@@ -115,4 +113,4 @@ Trackly snapshot: July 14, 2026.
 
 ---
 
-Some work is open source. Some is a public-safe reconstruction because the real thing belongs to an employer or a live business. Customer data, private source, and production credentials stay private.
+Some work is open source. Some is a public-safe reconstruction. Customer data, private source, and production credentials stay private.
