@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logoColor=white" alt="AWS">
 </p>
 
-A product guy who loves building (and a big Bad Bunny fan). I deeply believe that comfort is the most expensive thing you'll ever buy.
+A product guy who loves building (and a big Bad Bunny fan). I deeply believe comfort is the most expensive thing you'll ever buy.
 
 > "Simplicity is the ultimate sophistication." - Leonardo da Vinci
 
