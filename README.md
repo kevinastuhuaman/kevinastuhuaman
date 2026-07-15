@@ -18,7 +18,8 @@
   <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logoColor=white" alt="AWS">
 </p>
 
-> A product guy who loves building. And a big Bad Bunny fan. "Simplicity is the ultimate sophistication." - Leonardo da Vinci
+> A product guy who loves building (and a big Bad Bunny fan). 
+> "Simplicity is the ultimate sophistication." - Leonardo da Vinci
 
 [Portfolio](https://portfolio.kevinastuhuaman.com) | [Ask my portfolio](https://portfolio.kevinastuhuaman.com/ask/) | [PayPal case](https://portfolio.kevinastuhuaman.com/projects/paypal-ai-observability/) | [Resume](https://portfolio.kevinastuhuaman.com/resume/) | [LinkedIn](https://www.linkedin.com/in/kevinastuhuaman/)
 
