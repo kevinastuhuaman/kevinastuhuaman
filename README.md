@@ -123,7 +123,7 @@ A product guy who loves building (and a big Bad Bunny fan). I deeply believe com
 
 - 💃 [Salsa dancer](https://ihberkeley.com/2024/10/18/unity-in-motion-bridging-cultures-through-dance-at-international-house/) - bridged cultures through dance at UC Berkeley's International House.
 - 📺 [YouTuber](https://www.youtube.com/@kevinastuhuaman) - 15K+ subscribers; my personal finance channel was cited by Peru's largest economics newspaper.
-- 🤖 [Straude](https://straude.com/u/kevinastuhuaman) - nearly $100K in tracked token spend; [Garry Tan](https://straude.com/u/garrytan) follows me.
+- 🤖 [Straude](https://straude.com/u/kevinastuhuaman) - $100K+ in tracked token spend; [Garry Tan](https://straude.com/u/garrytan) follows me.
 
 ---
 
