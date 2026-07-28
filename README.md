@@ -30,7 +30,7 @@ A product guy who loves building (and a big Bad Bunny fan). I deeply believe com
   </a>
 </p>
 
-- 📱 [Trackly on the App Store](https://apps.apple.com/us/app/trackly-apply-first/id6758267565) - real-time tech job openings before they reach job boards.
+- 📱 [trackly on the App Store](https://apps.apple.com/us/app/trackly-apply-first/id6758267565) - real-time tech job openings before they reach job boards.
 - 🔗 [usetrackly.app](https://usetrackly.app) - the live web product that monitors 3,800+ active company career sites with 170,800+ active jobs.
 - ⌨️ [trackly-cli](https://github.com/trackly-app/trackly-cli) - open-source CLI and MCP server for bringing Trackly into agent workflows.
 
