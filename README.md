@@ -22,7 +22,7 @@ A product guy who loves building (and a big Bad Bunny fan). I deeply believe com
 
 > "Simplicity is the ultimate sophistication." - Leonardo da Vinci
 
-## Building Trackly
+## Building trackly, the fastest job search agent on the planet
 
 <p align="center">
   <a href="https://youtu.be/gGQ1NOzykDo">
