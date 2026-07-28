@@ -124,7 +124,7 @@ A product guy who loves building (and a big Bad Bunny fan). I deeply believe com
 
 - 🎓 [PUCP Engineering Faculty feature](https://facultad-ciencias-ingenieria.pucp.edu.pe/2024/10/07/kevin-astuhuaman-egresado-de-ingenieria-industrial-admitido-a-maestria-en-berkeley/) - interview on my Berkeley admission.
 - 📰 [Diario Gestion](https://gestion.pe/tu-dinero/finanzas-personales/prepagos-de-creditos-en-que-momento-hacerlo-para-ahorrar-mas-en-intereses-noticia/) - featured in Peru's top economics newspaper.
-- 🏦 [BCP SME platform launch]([https://youtu.be/w_49sTlM1DA?si=NqwLbs-kBTUmpfpL](https://youtu.be/w_49sTlM1DA?si=LIRGl4Ir5LCt9jj1&t=62)) - product launch video with 730K+ views.
+- 🏦 [BCP SME platform launch](https://youtu.be/w_49sTlM1DA?si=LIRGl4Ir5LCt9jj1&t=62) - product launch video with 730K+ views.
 - 🐻 [Berkeley Haas admits dinner](https://newsroom.haas.berkeley.edu/issue/spring-2024/worldwide-events-spring-2024/) - Haas newsroom feature.
 - 🎙️ [Beyond the Backlog](https://podcasts.apple.com/za/podcast/beyond-the-backlog/id1812138539) - co-host of Berkeley's first PM podcast.
 
