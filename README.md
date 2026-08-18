@@ -134,6 +134,14 @@ A product guy who loves building (and a big Bad Bunny fan). I deeply believe com
 - 📺 [YouTuber](https://www.youtube.com/@kevinastuhuaman) - 15K+ subscribers; my personal finance channel was cited by Peru's largest economics newspaper.
 - 🤖 [Straude](https://straude.com/u/kevinastuhuaman) - $500K+ USD in tracked token spend; [Garry Tan](https://straude.com/u/garrytan) follows me.
 
+<a href="https://straude.com/u/kevinastuhuaman">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://straude.com/api/embed/kevinastuhuaman/svg?theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://straude.com/api/embed/kevinastuhuaman/svg" />
+    <img alt="Kevin Astuhuaman's Straude Claude Code scorecard" src="https://straude.com/api/embed/kevinastuhuaman/svg" />
+  </picture>
+</a>
+
 ---
 
 Some work is open source. Some is a public-safe reconstruction. Customer data, private source, and production credentials stay private.
