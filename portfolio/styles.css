@@ -1319,3 +1319,7 @@ h2{text-wrap:balance}
 .vg-face::after{content:'';position:absolute;left:3.5px;bottom:2.5px;width:5px;height:2.5px;border-bottom:1.5px solid #fff;border-radius:0 0 5px 5px}
 .vig{min-height:178px}
 .vig .vg-foot{margin-top:auto}
+
+.ladder-kicker{margin-top:56px;font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#86868b}
+.section-dark .ladder-kicker{color:#86868b}
+.ladder{margin-top:28px}
