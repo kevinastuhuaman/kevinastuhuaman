@@ -1323,3 +1323,9 @@ h2{text-wrap:balance}
 .ladder-kicker{margin-top:56px;font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#86868b}
 .section-dark .ladder-kicker{color:#86868b}
 .ladder{margin-top:28px}
+
+.card-src{display:inline-block;margin-top:16px;font-size:11.5px;letter-spacing:.03em;color:#6e6e73;text-decoration:underline;text-underline-offset:3px}
+.section-dark .card-src{color:#86868b}
+.section-dark .card-src:hover{color:#f5f5f7}
+.ladder-card{display:flex;flex-direction:column}
+.ladder-card .card-src{margin-top:auto;padding-top:14px}
